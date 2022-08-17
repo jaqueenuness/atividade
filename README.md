@@ -1,1 +1,2 @@
-# atividade
+# atividade javascript
+Jaqueline 
